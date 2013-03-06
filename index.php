@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Maps | Foursquare Checkins</title>
+	<title>Maps | You Were Here</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.css" />
 	<!--[if lte IE 8]>
@@ -28,11 +28,11 @@
 </head>
 <body>
 	<a href="https://github.com/vicchi/maps.geotastic.org"><img style="position: absolute; top: 0; right: 0; border: 0; z-index:100;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub"></a>
-	<div id="header"><a href="/checkins/index.php">You Were Here; Places I've Been To According To Foursquare</a></div>
+	<div id="header"><a href="/you-were-here/index.php">You Were Here; Places I've Been To According To Foursquare</a></div>
 	<div id="map"></div>
 	<div id="footer">
 		<div id="credits">
-			Last updated on <span id="timestamp"></span>. This is a code thing by <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>, made out of PHP, HTML, CSS, jQuery and D3.
+			<a href="/">More Maps</a>. Last updated on <span id="timestamp"></span>. This is a code thing by <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>, made out of PHP, HTML, CSS, jQuery and D3.
 		</div>
 		<div id="attribution">
 			<a href="http://maps.stamen.com/" target="_blank">Map tiles</a> by <a href="http://stamen.com/" target="_blank">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>. &copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors.
