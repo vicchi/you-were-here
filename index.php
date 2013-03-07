@@ -35,7 +35,7 @@
 			<a href="/">More Maps</a>. Last updated on <span id="timestamp"></span>. This is a code thing by <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>, made out of PHP, HTML, CSS, jQuery and D3.
 		</div>
 		<div id="attribution">
-			<a href="http://maps.stamen.com/" target="_blank">Map tiles</a> by <a href="http://stamen.com/" target="_blank">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>. &copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors.
+			&copy; <a href="http://www.garygale.com/" target="_blank">Gary Gale</a>; content licensed under <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>; code licensed under a <a href="http://opensource.org/licenses/BSD-2-Clause" target="_blank">BSD license</a>. <a href="http://maps.stamen.com/" target="_blank">Map tiles</a> by <a href="http://stamen.com/" target="_blank">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0" target="_blank">CC BY 3.0</a>. &copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors.
 		</div>
 	</div>
 </body>
